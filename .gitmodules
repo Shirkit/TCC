@@ -1,0 +1,6 @@
+[submodule "Steering"]
+	path = Steering
+	url = C:\\Users\\Shirkit\\Documents\\jMonkeyProjects\\TCC\\Steering
+[submodule "NavMesh"]
+	path = NavMesh
+	url = C:\\Users\\Shirkit\\Documents\\jMonkeyProjects\\TCC\\NavMesh

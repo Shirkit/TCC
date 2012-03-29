@@ -1,0 +1,6 @@
+[submodule "Steering"]
+	path = Steering
+	url = https://Shirkit@github.com/Shirkit/Steering.git
+[submodule "NavMesh"]
+	path = NavMesh
+	url = https://Shirkit@github.com/Shirkit/NavMesh.git
